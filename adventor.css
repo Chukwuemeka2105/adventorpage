@@ -18,7 +18,7 @@ body{
 }
 
 header{
-    background-image: url(./background1.svg);
+    background-image: url(./images/background1.svg);
     background-size: cover;
     height:35rem ;
     color: white;
@@ -136,7 +136,7 @@ header{
 }
 
 .container2{
-    background-image: url(./Rectangle\ 7.svg);
+    background-image: url(./images/Rectangle\ 7.svg);
     background-size:cover;
     background-repeat: no-repeat;
     height: 120rem;
@@ -174,7 +174,7 @@ header{
 }
 
 .content4{
-    background-image: url(./Rectangle\ 8.svg);
+    background-image: url(./images/Rectangle\ 8.svg);
     text-align: start;
     margin-right: 70rem;
     padding: 1.8rem;
@@ -210,7 +210,7 @@ header{
 
 .section3{
     text-align: center;
-    background-image: url(./Rectangle\ 8.svg);
+    background-image: url(./images/Rectangle\ 8.svg);
     padding-bottom: 3rem;
 }
 
